@@ -1,1 +1,1 @@
-Display the contents list of your current directory
+create 0x00-shell_basics
