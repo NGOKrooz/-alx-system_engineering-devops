@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type -d | sort /etc/passwd
+find -type -u -d /etc/passwd | sort
